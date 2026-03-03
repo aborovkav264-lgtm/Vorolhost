@@ -1,0 +1,1 @@
+console.log('Vorol Host JS loaded');
